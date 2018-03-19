@@ -1,0 +1,16 @@
+.nav {
+    background-color: #000000;
+    color: white;
+    padding: 20px;
+}
+    .nav p, .nav h3 {
+        display: inline-block;
+    }
+
+    .nav p {
+        padding-left: 20px;
+    }
+
+    .nav .logOutButton {
+        float: right;
+    }
